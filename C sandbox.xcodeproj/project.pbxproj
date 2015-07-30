@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6C19FF801B53A560004417E2 /* PMU_OTP.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PMU_OTP.plist; sourceTree = "<group>"; };
 		6C21E6231AEE15AA006C04E2 /* C sandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C sandbox"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C21E6261AEE15AA006C04E2 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -41,6 +42,7 @@
 		6C21E61A1AEE15AA006C04E2 = {
 			isa = PBXGroup;
 			children = (
+				6C19FF801B53A560004417E2 /* PMU_OTP.plist */,
 				6C21E6251AEE15AA006C04E2 /* C sandbox */,
 				6C21E6241AEE15AA006C04E2 /* Products */,
 			);
@@ -232,6 +234,7 @@
 				6C21E62C1AEE15AA006C04E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
